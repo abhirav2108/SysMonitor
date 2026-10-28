@@ -1,0 +1,4 @@
+INFO: Server started successfully.
+WARN: High memory usage detected.
+ERROR: Connection timeout on port 8080.
+INFO: User logged in.

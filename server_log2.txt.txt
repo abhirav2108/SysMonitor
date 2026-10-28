@@ -1,0 +1,4 @@
+INFO: Database connected.
+INFO: Data synced.
+ERROR: Failed to write to disk.
+WARN: Latency spike detected.
